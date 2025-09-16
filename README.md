@@ -30,7 +30,7 @@ The CNN model architecture includes:
 
 ## Results
 
-The trained model achieved a test accuracy of approximately **[Insert your actual test accuracy here, e.g., 99.09%]**. The training history and evaluation results are included in the notebook.
+The trained model achieved a test accuracy of approximately **[99.19%]**. The training history and evaluation results are included in the notebook.
 
 ## How to Run
 
